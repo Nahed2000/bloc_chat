@@ -1,6 +1,6 @@
 # bloc_chat
 
-A new Flutter project.
+chat app use bloc - firebase  
 
 ## Getting Started
 
